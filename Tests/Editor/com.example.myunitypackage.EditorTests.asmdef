@@ -1,0 +1,5 @@
+{
+  "name": "MyUnityPackage.EditorTests",
+  "references": ["MyUnityPackage.Runtime", "MyUnityPackage.Editor", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+  "includeUnityEditorReferences": true
+}

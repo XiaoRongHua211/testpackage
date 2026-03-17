@@ -1,0 +1,6 @@
+{
+  "name": "MyUnityPackage.Editor",
+  "rootNamespace": "MyUnityPackage",
+  "references": ["MyUnityPackage.Runtime"],
+  "includeUnityEditorReferences": true
+}

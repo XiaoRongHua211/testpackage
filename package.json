@@ -1,0 +1,15 @@
+{
+  "name": "com.example.myunitypackage",
+  "displayName": "My Unity Package",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "description": "A custom Unity package example",
+  "keywords": ["unity", "utility", "tools"],
+  "category": "Utilities",
+  "dependencies": {},
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/yourusername"
+  }
+}
