@@ -1,15 +1,7 @@
 {
-  "name": "com.lwscope.humansdk",
-  "displayName": "HumanSdk",
+  "name": "com.example.myunitypackage",
   "version": "1.0.0",
-  "unity": "6000.0",
-  "description": "HumanSdk",
-  "keywords": [
-    "unity",
-    "utility",
-    "tools"
-  ],
-  "category": "Utilities",
-  "dependencies": {},
-  "_fingerprint": "f9f9a7b160b44d3ec14af9e037272c2d0f64c86a"
+  "displayName": "My Unity Package",
+  "description": "A sample Unity package for demonstration purposes.",
+  "unity": "2022.3"
 }
