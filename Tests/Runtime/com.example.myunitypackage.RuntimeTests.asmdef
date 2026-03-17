@@ -1,4 +1,0 @@
-{
-  "name": "MyUnityPackage.RuntimeTests",
-  "references": ["MyUnityPackage.Runtime", "UnityEngine.TestRunner", "UnityEditor.TestRunner"]
-}

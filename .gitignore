@@ -36,3 +36,26 @@ ehthumbs.db
 *.swp
 *.swo
 *~
+
+# Unity Package Manager
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Unity Asset Store
+Assets/AssetStoreTools*
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# macOS
+__MACOSX/
+
+# Test Results
+TestResults/
