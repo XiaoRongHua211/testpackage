@@ -1,7 +1,7 @@
 {
   "name": "com.example.myunitypackage",
   "version": "1.0.0",
-  "displayName": "My Unity Package",
+  "displayName": "TestPackage",
   "description": "A sample Unity package for demonstration purposes.",
   "unity": "2022.3"
 }
